@@ -6,3 +6,11 @@ pydantic
 pydantic-settings
 python-dotenv==1.0.0
 pandas==2.1.3
+alembic
+
+dbt-postgres==1.9.1
+dbt-core==1.9.1
+argparse
+pandas
+mlxtend
+
