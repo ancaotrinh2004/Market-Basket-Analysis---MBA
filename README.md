@@ -1,17 +1,18 @@
 # Market Basket Analysis
 A complete end-to-end Market Basket Analysis system using **FP-Growth algorithm** to generate intelligent product recommendations. Built with modern data stack: **dbt**, **FastAPI**, and **Streamlit**.
+
 ![System Architecture](docs/architecture.svg)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Repository Struture](#repository-structure)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage Guide](#usage-guide)
-- [Configuration](#configuration)
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Usage Guide](#-usage-guide)
+- [Configuration](#️-configuration)
 ---
 
 ## 🎯 Overview
@@ -79,7 +80,7 @@ Market-Basket-Analysis/
 └── README.md
 ```
 ---
-## ✨Features
+## ✨ Features
 
 ### 🎯 Recommendation Engine
 - Real-time product recommendations based on cart items
@@ -106,7 +107,7 @@ Market-Basket-Analysis/
 - Pattern insights
 
 ---
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 ### Data Processing
 - **dbt**: Data transformation
@@ -127,7 +128,7 @@ Market-Basket-Analysis/
 - **Docker** & **Docker Compose** (optional, for containerized deployment)
 - **Git**
 - **Conda**
-## 🚀Installation
+## 🚀 Installation
 
 ### Method 1: Local Installation (Development)
 
@@ -230,7 +231,7 @@ docker-compose up --build -d
 - **PostgreSQL**: localhost:5433
 ---
 
-## ⚡Quick Start
+## ⚡ Quick Start
 
 ### Step 1: Load Data
 ```bash
@@ -267,7 +268,7 @@ Open browser: **http://localhost:8501**
 
 ---
 
-## 📖Usage Guide
+## 📖 Usage Guide
 
 ### 1. Home Page
 - View system status (API, Database)
@@ -321,7 +322,8 @@ Cart: [Milk, Bread]
    - **As Consequent**: What's bought BEFORE
    - **All Results**: Complete list
 4. Download search results
-## ⚙️Configuration
+
+## ⚙️ Configuration
 
 ### dbt Configuration
 
