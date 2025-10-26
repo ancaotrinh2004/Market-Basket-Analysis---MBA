@@ -376,4 +376,15 @@ class Settings(BaseSettings):
 API_URL = "http://localhost:8000"
 APP_TITLE = "MBA Recommender System"
 ```
-
+---
+## Demo 
+### Overview
+![alt text](./docs/image.png)
+### Analytics
+![alt text](./docs/image-1.png)
+### Recommendation
+![alt text](./docs/image-2.png)
+### Association Rules Explorer
+![alt text](./docs/image-3.png)
+### Search Association Rules
+![alt text](./docs/image-4.png)
