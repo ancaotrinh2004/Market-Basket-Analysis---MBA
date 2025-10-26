@@ -7,7 +7,6 @@ from typing import List
 class Settings(BaseSettings):
     # Database
     database_url: str = "postgresql://anjuly:123456@localhost:5432/mba_db"
-    
     # API
     api_title: str = "MBA Recommendation API"
     api_version: str = "1.0.0"
